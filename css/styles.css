@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.header a{
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.1428;
+    letter-spacing: 0.02em;
+    text-decoration:none;
+    list-style: none;
+}; 
+
+.body{
+    font-family:'Roboto'; 
+    text-decoration:none;
+    color:#212121;
+}
+h1,h2,h3,h4,h5,h6{margin: 0px;
+        font-family:'Roboto'; 
+}
+
+ul{
+    list-style: none;
+}
+
+
+.header-nav-link{
+    color: #212121;}
+
+
+.header-nav{list-style: none;
+}
+.footer-nav-link{
+text-decoration:none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7142;
+letter-spacing: 0.03em;
+color: #FFFFFF;}
+.footer-bottom{
+background-color: #2F303A;}
+
+
+        
+
+
+.header-nav-link:hover, 
+.header-nav-link:focus,
+.header-contact:hover,
+.header-contact:focus,
+.footer-nav-link:hover,
+.footer-nav-link:focus
+{
+    color:#2196F3;
+}
+.header-nav-link:active,
+.header-contact:active,
+.footer-nav-link:active
+
+{
+    color: black;}
+
+.header-contact{ 
+    text-transform: uppercase;
+    color: #212121;
+}
+    
+
+
+.list {font-family:'Roboto'
+}
+
+.header-button{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.875;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color:#FFFFFF;
+    border: none;
+    background: #2196F3;
+    border-radius: 4px;
+}
+.header-button:hover, 
+.header-button:focus{color:#212121;}
+
+.header-button:active{
+    color: #FFFFFF;}
+
+.title-h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    text-align: center;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.3636;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #2F303A;;
+}
+
+
+
+ 
+.logo-studio{font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.1923;
+    color: #212121;
+    text-decoration:none;}
+.logo-web{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.1923;
+    color: #2196F3;
+    text-decoration:none}
+ 
+
+
+
+
+.logo-studio-footer{font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.1923;
+    color: #FFFFFF;
+    text-decoration:none;}
+
