@@ -28,6 +28,12 @@ ul{
 
 
 .header-nav-link{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1428;
+    letter-spacing: 0.02em;
     color: #212121;}
 
 
@@ -42,6 +48,7 @@ font-size: 14px;
 line-height: 1.7142;
 letter-spacing: 0.03em;
 color: #FFFFFF;}
+
 .footer-bottom{
 background-color: #2F303A;}
 
@@ -67,7 +74,7 @@ background-color: #2F303A;}
 
 .header-contact{ 
     text-transform: uppercase;
-    color: #212121;
+    color: #757575;
 }
     
 
